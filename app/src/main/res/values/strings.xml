@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DialogSample</string>
+    <string name="dialog_entry">App to demo dialogs</string>
+</resources>
